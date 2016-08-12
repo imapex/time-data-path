@@ -1,7 +1,7 @@
 # time-data-path
 
 # Description
-Time slide data path visualization
+Time slice data path visualization
 
 # Installation
 
